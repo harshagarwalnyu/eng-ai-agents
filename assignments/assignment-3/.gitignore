@@ -1,0 +1,17 @@
+__pycache__/
+*.py[oc]
+*.pt
+*.zip
+.venv/
+venv/
+frames/
+detections/
+output_videos/
+artifacts/
+data/
+runs/
+*:Zone.Identifier
+.DS_Store
+uv.lock
+.claude/
+videos/
